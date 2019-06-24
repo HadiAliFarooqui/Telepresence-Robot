@@ -1,4 +1,4 @@
-// Simple WiFi Car using Blynk Joystick Widget
+
 // Pins are based on looking at rear of car.
  
 // -- Motor Leads --
